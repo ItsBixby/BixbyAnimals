@@ -25,13 +25,13 @@
       "falpha": 0.0
     },
     "ambientSound": {
-      "value": ""
+      "value": "CUSTOM:exoticaforestmusic"
     },
     "additionsSound": {
       "value": ""
     },
     "music": {
-      "value": "CUSTOM:exoticaforestmusic"
+      "value": ""
     },
     "moodSound": {
       "value": ""
@@ -74,10 +74,10 @@
       "value": "CUSTOM:ExoticWoodLeaves"
     },
     "treeVines": {
-      "value": "Blocks.TWISTING_VINES"
+      "value": ""
     },
     "treeFruits": {
-      "value": "Blocks.POINTED_DRIPSTONE"
+      "value": ""
     },
     "spawnStronghold": false,
     "spawnMineshaft": false,
