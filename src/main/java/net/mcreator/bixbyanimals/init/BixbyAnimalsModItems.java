@@ -14,8 +14,14 @@ import net.minecraft.world.item.Item;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.BlockItem;
 
+import net.mcreator.bixbyanimals.item.ExoticaSwordItem;
+import net.mcreator.bixbyanimals.item.ExoticaShovelItem;
+import net.mcreator.bixbyanimals.item.ExoticaPickaxeItem;
 import net.mcreator.bixbyanimals.item.ExoticaIngotItem;
+import net.mcreator.bixbyanimals.item.ExoticaHoeItem;
+import net.mcreator.bixbyanimals.item.ExoticaAxeItem;
 import net.mcreator.bixbyanimals.item.ExoticaArmorArmorItem;
+import net.mcreator.bixbyanimals.item.ExocticaItem;
 import net.mcreator.bixbyanimals.BixbyAnimalsMod;
 
 public class BixbyAnimalsModItems {
@@ -24,6 +30,7 @@ public class BixbyAnimalsModItems {
 			() -> new ForgeSpawnEggItem(BixbyAnimalsModEntities.FENNEC, -3368449, -1,
 					new Item.Properties().tab(BixbyAnimalsModTabs.TAB_BIXBY_ANIMALS)));
 	public static final RegistryObject<Item> EXOTICA_INGOT = REGISTRY.register("exotica_ingot", () -> new ExoticaIngotItem());
+	public static final RegistryObject<Item> EXOCTICA = REGISTRY.register("exoctica", () -> new ExocticaItem());
 	public static final RegistryObject<Item> EXOTICA_ORE = block(BixbyAnimalsModBlocks.EXOTICA_ORE, BixbyAnimalsModTabs.TAB_BIXBY_ANIMALS);
 	public static final RegistryObject<Item> EXOTICA_BLOCK = block(BixbyAnimalsModBlocks.EXOTICA_BLOCK, BixbyAnimalsModTabs.TAB_BIXBY_ANIMALS);
 	public static final RegistryObject<Item> EXOTIC_WOOD_WOOD = block(BixbyAnimalsModBlocks.EXOTIC_WOOD_WOOD, BixbyAnimalsModTabs.TAB_BIXBY_ANIMALS);
@@ -49,6 +56,11 @@ public class BixbyAnimalsModItems {
 			() -> new ExoticaArmorArmorItem.Leggings());
 	public static final RegistryObject<Item> EXOTICA_ARMOR_ARMOR_BOOTS = REGISTRY.register("exotica_armor_armor_boots",
 			() -> new ExoticaArmorArmorItem.Boots());
+	public static final RegistryObject<Item> EXOTICA_PICKAXE = REGISTRY.register("exotica_pickaxe", () -> new ExoticaPickaxeItem());
+	public static final RegistryObject<Item> EXOTICA_AXE = REGISTRY.register("exotica_axe", () -> new ExoticaAxeItem());
+	public static final RegistryObject<Item> EXOTICA_SWORD = REGISTRY.register("exotica_sword", () -> new ExoticaSwordItem());
+	public static final RegistryObject<Item> EXOTICA_SHOVEL = REGISTRY.register("exotica_shovel", () -> new ExoticaShovelItem());
+	public static final RegistryObject<Item> EXOTICA_HOE = REGISTRY.register("exotica_hoe", () -> new ExoticaHoeItem());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

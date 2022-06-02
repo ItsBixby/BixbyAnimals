@@ -310,6 +310,108 @@
       "locked_code": false,
       "registry_name": "exotica_forest",
       "path": "~/Exotica"
+    },
+    {
+      "name": "Exoctica",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exoctica",
+      "metadata": {
+        "ep": true
+      },
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaPickaxe",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_pickaxe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaAxe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_axe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaSword",
+      "type": "tool",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_sword",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaShovel",
+      "type": "tool",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_shovel",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaHoe",
+      "type": "tool",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_hoe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_pickaxe_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaAxeRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_axe_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaSwordRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_sword_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaShovelRecipe",
+      "type": "recipe",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_shovel_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaHoeRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_hoe_recipe",
+      "path": "~/Exotica"
     }
   ],
   "variable_elements": [],
@@ -333,29 +435,35 @@
   ],
   "language_map": {
     "en_us": {
-      "subtitles.fennecfoxscreams_01": "*fennec scree*",
       "block.bixby_animals.exotic_wood_stairs": "ExoticWood Stairs",
+      "itemGroup.tabbixby_animals": "Bixby Animals",
+      "item.bixby_animals.exotica_armor_armor_helmet": "ExoticaArmor Helmet",
+      "block.bixby_animals.exotic_wood_slab": "ExoticWood Slab",
+      "item.bixby_animals.exotica_armor_armor_leggings": "ExoticaArmor Leggings",
+      "item.bixby_animals.exotica_armor_armor_boots": "ExoticaArmor Boots",
+      "block.bixby_animals.exotic_wood_fence": "ExoticWood Fence",
+      "item.bixby_animals.exotica_armor_armor_chestplate": "ExoticaArmor Chestplate",
+      "block.bixby_animals.exotic_wood_wood": "ExoticWood Wood",
+      "entity.bixby_animals.fennec": "Fennec",
+      "item.bixby_animals.exotica_shovel": "Exotica Shovel",
+      "subtitles.fennecfoxscreams_01": "*fennec scree*",
       "item.bixby_animals.fennec_spawn_egg": "Fennec Spawn Egg",
       "biome.bixby_animals.exotica_forest": "Exotica Forest",
       "block.bixby_animals.exotic_wood_leaves": "ExoticWood Leaves",
       "block.bixby_animals.exotic_wood_planks": "ExoticWood Planks",
       "block.bixby_animals.exotica_ore": "Exotica Ore",
       "item.bixby_animals.exotica_ingot": "Exotica",
-      "itemGroup.tabbixby_animals": "Bixby Animals",
       "block.bixby_animals.exotica_block": "Block of Exotica",
       "block.bixby_animals.exotic_wood_fence_gate": "ExoticWood Fence Gate",
       "block.bixby_animals.exotic_wood_log": "ExoticWood Log",
-      "item.bixby_animals.exotica_armor_armor_helmet": "ExoticaArmor Helmet",
       "subtitles.exoticaforestmusic": "Exotica Music",
+      "item.bixby_animals.exotica_pickaxe": "Exotica Pickaxe",
+      "item.bixby_animals.exotica_axe": "Exotica Axe",
+      "item.bixby_animals.exotica_sword": "Exotica Sword",
       "block.bixby_animals.exotic_wood_pressure_plate": "ExoticWood Pressure Plate",
-      "block.bixby_animals.exotic_wood_slab": "ExoticWood Slab",
-      "item.bixby_animals.exotica_armor_armor_leggings": "ExoticaArmor Leggings",
+      "item.bixby_animals.exoctica": "Exoctica Flame",
       "block.bixby_animals.exotic_wood_button": "ExoticWood Button",
-      "item.bixby_animals.exotica_armor_armor_boots": "ExoticaArmor Boots",
-      "block.bixby_animals.exotic_wood_fence": "ExoticWood Fence",
-      "item.bixby_animals.exotica_armor_armor_chestplate": "ExoticaArmor Chestplate",
-      "block.bixby_animals.exotic_wood_wood": "ExoticWood Wood",
-      "entity.bixby_animals.fennec": "Fennec"
+      "item.bixby_animals.exotica_hoe": "Exotica Hoe"
     }
   },
   "foldersRoot": {

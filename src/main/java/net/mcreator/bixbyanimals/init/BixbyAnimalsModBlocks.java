@@ -22,10 +22,12 @@ import net.mcreator.bixbyanimals.block.ExoticWoodLeavesBlock;
 import net.mcreator.bixbyanimals.block.ExoticWoodFenceGateBlock;
 import net.mcreator.bixbyanimals.block.ExoticWoodFenceBlock;
 import net.mcreator.bixbyanimals.block.ExoticWoodButtonBlock;
+import net.mcreator.bixbyanimals.block.ExocticaPortalBlock;
 import net.mcreator.bixbyanimals.BixbyAnimalsMod;
 
 public class BixbyAnimalsModBlocks {
 	public static final DeferredRegister<Block> REGISTRY = DeferredRegister.create(ForgeRegistries.BLOCKS, BixbyAnimalsMod.MODID);
+	public static final RegistryObject<Block> EXOCTICA_PORTAL = REGISTRY.register("exoctica_portal", () -> new ExocticaPortalBlock());
 	public static final RegistryObject<Block> EXOTICA_ORE = REGISTRY.register("exotica_ore", () -> new ExoticaOreBlock());
 	public static final RegistryObject<Block> EXOTICA_BLOCK = REGISTRY.register("exotica_block", () -> new ExoticaBlockBlock());
 	public static final RegistryObject<Block> EXOTIC_WOOD_WOOD = REGISTRY.register("exotic_wood_wood", () -> new ExoticWoodWoodBlock());

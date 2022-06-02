@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "bixby_animals:block/exoctica_portal_ew"
+    },
+    "axis=x": {
+      "model": "bixby_animals:block/exoctica_portal_ns"
+    }
+  }
+}
