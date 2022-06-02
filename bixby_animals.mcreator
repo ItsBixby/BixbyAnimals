@@ -1,0 +1,392 @@
+{
+  "mod_elements": [
+    {
+      "name": "BixbyAnimals",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bixby_animals"
+    },
+    {
+      "name": "Fennec",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fennec",
+      "path": "~/Mobs"
+    },
+    {
+      "name": "ExoticaIngot",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_ingot",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaOre",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_ore",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaBlock",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_block",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_ore_block_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_block_ore_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaOreSmelting",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_ore_smelting",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodWood",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_wood",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodLog",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_log",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodPlanks",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_planks",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodLeaves",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_leaves",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodStairs",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_stairs",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodSlab",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_slab",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodFence",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_fence",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodFenceGate",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_fence_gate",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodPressurePlate",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_pressure_plate",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodButton",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_button",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodItemsTag",
+      "type": "tag",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_items_tag",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodWoodRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_wood_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodPlanksRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_planks_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodStairsRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_stairs_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodSlabRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_slab_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodFenceRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_fence_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_fence_gate_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_pressure_plate_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodButtonRecipe",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_button_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticWoodStickRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotic_wood_stick_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaArmorArmor",
+      "type": "armor",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_armor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaArmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_armor_armor_helmet_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaArmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_armor_armor_body_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaArmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_armor_armor_leggings_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaArmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_armor_armor_boots_recipe",
+      "path": "~/Exotica"
+    },
+    {
+      "name": "ExoticaForest",
+      "type": "biome",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exotica_forest",
+      "path": "~/Exotica"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "fennecfoxscreams_01",
+      "files": [
+        "fennec_fox_screams_01"
+      ],
+      "category": "neutral",
+      "subtitle": "*fennec scree*"
+    },
+    {
+      "name": "exoticaforestmusic",
+      "files": [
+        "joel_nielsen___xen_soundtrack___04___convergence"
+      ],
+      "category": "music",
+      "subtitle": "Exotica Music"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.fennecfoxscreams_01": "*fennec scree*",
+      "block.bixby_animals.exotic_wood_stairs": "ExoticWood Stairs",
+      "item.bixby_animals.fennec_spawn_egg": "Fennec Spawn Egg",
+      "biome.bixby_animals.exotica_forest": "Exotica Forest",
+      "block.bixby_animals.exotic_wood_leaves": "ExoticWood Leaves",
+      "block.bixby_animals.exotic_wood_planks": "ExoticWood Planks",
+      "block.bixby_animals.exotica_ore": "Exotica Ore",
+      "item.bixby_animals.exotica_ingot": "Exotica",
+      "itemGroup.tabbixby_animals": "Bixby Animals",
+      "block.bixby_animals.exotica_block": "Block of Exotica",
+      "block.bixby_animals.exotic_wood_fence_gate": "ExoticWood Fence Gate",
+      "block.bixby_animals.exotic_wood_log": "ExoticWood Log",
+      "item.bixby_animals.exotica_armor_armor_helmet": "ExoticaArmor Helmet",
+      "subtitles.exoticaforestmusic": "Exotica Music",
+      "block.bixby_animals.exotic_wood_pressure_plate": "ExoticWood Pressure Plate",
+      "block.bixby_animals.exotic_wood_slab": "ExoticWood Slab",
+      "item.bixby_animals.exotica_armor_armor_leggings": "ExoticaArmor Leggings",
+      "block.bixby_animals.exotic_wood_button": "ExoticWood Button",
+      "item.bixby_animals.exotica_armor_armor_boots": "ExoticaArmor Boots",
+      "block.bixby_animals.exotic_wood_fence": "ExoticWood Fence",
+      "item.bixby_animals.exotica_armor_armor_chestplate": "ExoticaArmor Chestplate",
+      "block.bixby_animals.exotic_wood_wood": "ExoticWood Wood",
+      "entity.bixby_animals.fennec": "Fennec"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "Exotica",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "bixby_animals",
+    "modName": "Bixby Animals",
+    "version": "1.0.0",
+    "author": "FireF, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.bixbyanimals",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

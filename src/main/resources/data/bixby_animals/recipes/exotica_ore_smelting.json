@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "bixby_animals:exotica_ore"
+  },
+  "result": "bixby_animals:exotica_ingot"
+}

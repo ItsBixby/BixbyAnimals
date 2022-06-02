@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:exoticwood_log"
+    }
+  ],
+  "result": {
+    "item": "bixby_animals:exotic_wood_planks",
+    "count": 4
+  }
+}

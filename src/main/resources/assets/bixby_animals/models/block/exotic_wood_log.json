@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "bixby_animals:blocks/exoticwood_log_top",
+    "up": "bixby_animals:blocks/exoticwood_log_top",
+    "north": "bixby_animals:blocks/exoticwood_log_side",
+    "east": "bixby_animals:blocks/exoticwood_log_side",
+    "south": "bixby_animals:blocks/exoticwood_log_side",
+    "west": "bixby_animals:blocks/exoticwood_log_side",
+    "particle": "bixby_animals:blocks/exoticwood_log_top"
+  }
+}

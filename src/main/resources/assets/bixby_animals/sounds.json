@@ -1,0 +1,22 @@
+{
+  "fennecfoxscreams_01": {
+    "category": "neutral",
+    "subtitle": "subtitles.fennecfoxscreams_01",
+    "sounds": [
+      {
+        "name": "bixby_animals:fennec_fox_screams_01",
+        "stream": false
+      }
+    ]
+  },
+  "exoticaforestmusic": {
+    "category": "music",
+    "subtitle": "subtitles.exoticaforestmusic",
+    "sounds": [
+      {
+        "name": "bixby_animals:joel_nielsen___xen_soundtrack___04___convergence",
+        "stream": true
+      }
+    ]
+  }
+}

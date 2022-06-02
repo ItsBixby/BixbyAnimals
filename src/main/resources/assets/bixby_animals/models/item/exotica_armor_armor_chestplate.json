@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "bixby_animals:items/exoticaarmor_body"
+  }
+}

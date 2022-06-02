@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "bixby_animals:exotic_wood_planks"
+    },
+    "3": {
+      "item": "bixby_animals:exotic_wood_planks"
+    },
+    "4": {
+      "item": "bixby_animals:exotic_wood_planks"
+    },
+    "6": {
+      "item": "bixby_animals:exotic_wood_planks"
+    },
+    "7": {
+      "item": "bixby_animals:exotic_wood_planks"
+    },
+    "8": {
+      "item": "bixby_animals:exotic_wood_planks"
+    }
+  },
+  "result": {
+    "item": "bixby_animals:exotic_wood_stairs",
+    "count": 4
+  }
+}

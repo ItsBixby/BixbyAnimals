@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bixby_animals:blocks/exotica_ore_block",
+    "particle": "bixby_animals:blocks/exotica_ore_block"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 28,
+  "_type": "tab",
+  "definition": {
+    "name": "Bixby Animals",
+    "icon": {
+      "value": "Items.GLOW_SQUID_SPAWN_EGG"
+    },
+    "showSearch": true
+  }
+}

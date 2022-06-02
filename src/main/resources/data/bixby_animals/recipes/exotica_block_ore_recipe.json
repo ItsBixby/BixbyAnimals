@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bixby_animals:exotica_block"
+    }
+  ],
+  "result": {
+    "item": "bixby_animals:exotica_ingot",
+    "count": 9
+  }
+}

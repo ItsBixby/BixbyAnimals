@@ -1,0 +1,6 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "bixby_animals:blocks/exoticwood_planks"
+  }
+}

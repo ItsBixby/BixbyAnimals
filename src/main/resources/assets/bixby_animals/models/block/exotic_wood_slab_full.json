@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "bixby_animals:blocks/exoticwood_planks",
+    "top": "bixby_animals:blocks/exoticwood_planks",
+    "side": "bixby_animals:blocks/exoticwood_planks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "bixby_animals:blocks/exoticwood_planks",
+    "particle": "bixby_animals:blocks/exoticwood_planks"
+  }
+}

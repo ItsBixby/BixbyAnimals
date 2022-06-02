@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "bixby_animals:exotica_ingot"
+    },
+    "2": {
+      "item": "bixby_animals:exotica_ingot"
+    },
+    "3": {
+      "item": "bixby_animals:exotica_ingot"
+    },
+    "5": {
+      "item": "bixby_animals:exotica_ingot"
+    }
+  },
+  "result": {
+    "item": "bixby_animals:exotica_armor_armor_boots",
+    "count": 1
+  }
+}

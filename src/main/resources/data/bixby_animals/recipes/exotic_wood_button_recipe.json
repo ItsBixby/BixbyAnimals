@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bixby_animals:exotic_wood_planks"
+    }
+  ],
+  "result": {
+    "item": "bixby_animals:exotic_wood_button",
+    "count": 1
+  }
+}

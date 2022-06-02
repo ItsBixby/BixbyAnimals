@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "bixby_animals:blocks/exoticwood_log_side",
+    "particle": "bixby_animals:blocks/exoticwood_log_side"
+  }
+}

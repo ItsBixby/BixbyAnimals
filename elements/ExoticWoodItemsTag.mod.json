@@ -1,0 +1,20 @@
+{
+  "_fv": 28,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ExoticWoodWood"
+      },
+      {
+        "value": "CUSTOM:ExoticWoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "exoticwood_log",
+    "namespace": "forge"
+  }
+}

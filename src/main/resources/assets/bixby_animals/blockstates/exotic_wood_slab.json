@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "bixby_animals:block/exotic_wood_slab"
+    },
+    "type=top": {
+      "model": "bixby_animals:block/exotic_wood_slab_top"
+    },
+    "type=double": {
+      "model": "bixby_animals:block/exotic_wood_slab_full"
+    }
+  }
+}
